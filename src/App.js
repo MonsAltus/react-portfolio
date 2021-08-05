@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import About from './components/About';
-import Projects from './components/Projects';
+// import Projects from './components/Projects';
 import Contact from './components/Contact';
 
 export default function App() {
@@ -9,7 +9,7 @@ export default function App() {
     <main>
       <Navbar />
       <About />
-      <Projects />
+      {/* <Projects /> */}
       <Contact />
     </main>
   )
