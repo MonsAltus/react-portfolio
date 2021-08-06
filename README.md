@@ -19,7 +19,7 @@ A refactor of my development portfolio using React as a front end. This page wil
 - SO THAT 
 
 ## Usage:
-[Link to deployed app on Heroku.]() <br>
+<!-- [Link to deployed app.]() <br> -->
 Application preview:<br>
 ![Image of app functionality]()<br>
 
