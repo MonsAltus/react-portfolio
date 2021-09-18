@@ -12,13 +12,13 @@ export default function Navbar() {
                         <Link to='/'>About me</Link>
                     </li>
                     <li>
-                        <a href="./James-hacklander-resume.pdf" target='_blank' >Resume</a>
-                    </li>
-                    <li>
                         <Link to='/projects'>Projects</Link>
                     </li>
                     <li>
                         <Link to='/contact'>Contact</Link>
+                    </li>
+                    <li>
+                        <a href='./James-hacklander-resume.pdf' target='_blank' >Resume</a>
                     </li>
                 </ul>
             </nav>
