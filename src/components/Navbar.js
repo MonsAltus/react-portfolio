@@ -18,7 +18,7 @@ export default function Navbar() {
                         <Link to='/contact'>Contact</Link>
                     </li>
                     <li>
-                        <a href='./James-hacklander-resume.pdf' target='_blank' >Resume</a>
+                        <a href='./James Hacklander resume.pdf' target='_blank' >Resume</a>
                     </li>
                 </ul>
             </nav>
